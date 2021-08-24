@@ -1,0 +1,23 @@
+.header{
+    background-color: transparent !important;
+}
+.card{
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: 0px 0px 1px 1px silver;
+    margin-bottom:3vh !important;
+    border-radius:0px !important;
+}
+.cardstyle{
+ background-color:transparent !important ;
+ border-bottom:1px solid silver !important;
+}
+
+.accordion_bg{
+    background-color:transparent !important;
+    border: none !important;
+}
+.checkbox{
+    background-color: transparent !important;
+    border: none !important;
+}

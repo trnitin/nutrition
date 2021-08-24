@@ -1,0 +1,9 @@
+.hero_image {
+    /* background-image: url("https://lh3.googleusercontent.com/proxy/2_T4VHN4zg3pRArW1jq2lZe9EKtZj2JVhpAowVtp-uIE3bvfoLiDrJNz-v0HZRcffX4eW0qWjCL7SarLU-YbcAV0uS-dJU3HUlbhV9dw0grqzQyWdBYsCwWHVfJJDg"); */
+    background-image: url("https://img2.hkrtcdn.com/12089/bnr_1208801_o.jpg");
+    height: 50vh;
+    /* background-position: ; */
+    background-repeat: no-repeat;
+    margin-top:20px;
+    background-size:cover;
+  }

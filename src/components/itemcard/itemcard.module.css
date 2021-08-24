@@ -1,0 +1,31 @@
+.card_image{
+    height:13rem;
+    width: 12rem !important;
+    margin: 0 auto;
+    transition: 0.2s ease-in-out;  
+}
+
+.card_image:hover{
+  padding:5px;
+  /* transition: 0.2s ease-in-out;   */
+  cursor: pointer;
+}
+.card_text{
+    font-size:14px;
+    padding-top:1px;
+    font-weight:600;
+    max-height:5rem;
+    height:5rem;
+    overflow:hidden;
+}
+.itemcard{
+    box-shadow: 0px 1px 2px 2px white !important;
+    padding: 10px; 
+    border:0.5px solid lightgrey !important;
+    min-height: 12rem;
+}
+.itemcard:hover{
+    transition: 0.2s linear;  
+    box-shadow: 0px 1px 5px 5px lightgrey !important;
+    cursor:pointer;
+}

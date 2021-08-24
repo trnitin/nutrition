@@ -1,0 +1,25 @@
+.Largeimage{
+    z-index:9999 !important;
+}
+
+.divstyle{
+     margin-top: 60px;
+}
+.mytabs{
+    margin-top:6vh !important;
+    color:black !important;
+}
+.mytabs .card{
+         margin-bottom:10px;
+        /* box-shadow: 1px 1px 2px 1px grey; */
+        border-radius:0px !important; 
+}
+.mytabs .card  div{
+    background-color:transparent !important;
+    border:none;
+}
+.mytabs .card > div:last-child{
+    border:none;
+    color:grey;
+    border-top:1px solid black;
+}

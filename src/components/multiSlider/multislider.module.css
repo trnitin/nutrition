@@ -1,0 +1,16 @@
+.multislider_img{
+    height:9rem;
+    width:9rem;
+    margin-left:55px; 
+    transition: 0.2s ease-in-out;  
+}
+.multislider_img:hover{
+    padding:5px;
+    cursor:pointer;
+}
+.multislider_img:first-child{
+    margin-left:65px;
+}
+.react-multiple-carousel__arrow{
+    background-color:white;
+}
